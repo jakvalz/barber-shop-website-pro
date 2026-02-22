@@ -127,7 +127,7 @@ ul .myOwnClass-contact {
 }
 
 #myOwnId-gallery {
-	padding-top: 80px;
+	padding-top: 40px;
 }
 
 /* Basic */
@@ -2756,9 +2756,9 @@ ul .myOwnClass-contact {
 				width: 2.5em;
 			}
 
-			ul.contact li:first-child {
+			/* ul.contact li:first-child {
 				margin-top: 0;
-			}
+			} */
 
 		@media screen and (max-width: 736px) {
 
